@@ -104,8 +104,6 @@
 
 ###英文 :
 
-* [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街. 开源IM. 电商强烈推荐.
-
 * [Firefox for iOS](https://github.com/mozilla/firefox-ios) 火狐
 
 * [Zulip iOS app](https://github.com/zulip/zulip-ios) Dropbox收购公司内部社交服务商Zulip,然后全部开源
