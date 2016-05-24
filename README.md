@@ -101,3 +101,89 @@
 * [PHPHub](https://phphub.org/)[](https://github.com/aufree/phphub-ios) PHP & Laravel的中文社区PHPHub for iOS is the universal iPhone and iPad application for PHPHub
 
 * [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit)  一个类似微信App的IM应用，拥有发送文字、图片、语音、视频、地理位置消息，管理本地通信录、分享朋友 圈、漂流交友、摇一摇和更多有趣的功能。笔者推荐的学习IM的好东西.
+
+###英文 :
+
+* [TeamTalk](https://github.com/mogujie/TeamTalk) 蘑菇街. 开源IM. 电商强烈推荐.
+
+* [Firefox for iOS](https://github.com/mozilla/firefox-ios) 火狐
+
+* [Zulip iOS app](https://github.com/zulip/zulip-ios) Dropbox收购公司内部社交服务商Zulip,然后全部开源
+
+* [Anypic](https://github.com/ParsePlatform/Anypic) 类似于Instagram的一款App
+
+* [NotificationChat](https://github.com/relatedcode/EncryptedChat) Objective-C写的完整的聊天应用
+
+* [Brushes](https://github.com/sprang/Brushes) 绘图应用. Painting app for the iPhone and iPad.
+
+* [wikipedia](https://github.com/wikimedia/apps-ios-wikipedia)  维基百科客户端。
+
+* [jetstream-ios](https://github.com/uber/jetstream-ios)  一款 Uber 的 MVC 框架。它同时提供了多用户实时通讯支持，一旦启动 JetStream 后端服务，通过 WebSocket 协议可以分分钟建立多用户实时通讯应用。
+
+* [DeckRocket](https://github.com/jpsim/DeckRocket)  在相同 WiFi 网络环境内，通过iPhone 控制并播放 Mac 中的 PDF 文档。
+
+* [DesignerNewsApp](https://github.com/MengTo/DesignerNewsApp) Swift 开发的 DesignerNews 客户端
+
+* [Eidolon](https://github.com/artsy/eidolon)  艺术品拍卖的投标亭平台，用swift与反应式编程框架 ReactiveCocoa。
+
+* [Tropos](https://github.com/thoughtbot/Tropos)  Tropos, 由 thoughtbot 推出的一款用 Objective-C 写的开源天气类应用
+
+* [SmileWeather](https://github.com/liu044100/SmileWeather) 开源天气类应用,天气图标很完整。
+
+* [Tomate](https://github.com/dasdom/Tomate)  这个圆盘式计时器让你更专注于工作或学习
+
+* [Monkey](https://github.com/coderyi/Monkey)  Monkey for GitHub是一个GitHub开发者和仓库排名的开源App。这次主要增加了登录GitHub的功能，随手follow和star，并且增加发现模块，包括GitHub的trending，动态，showcases等。
+
+* [Uther](https://github.com/callmewhy/Uther)  跟蠢萌的外星人聊天，还能帮你记事。
+
+* [furni-ios.swift](https://github.com/twitterdev/furni-ios)  由 Twitter 开发团队出品的一款用 Swift 写的 iOS 家居商城应用, 其主要目的在于让开发者从这款 Demo 应用中看出 Fabric 的强大。
+
+* [SwiftWeather](https://github.com/JakeLin/SwiftWeather)  SwiftWeather基于Swift2.0
+
+* [PHPHub-ios](https://github.com/Aufree/phphub-ios)  PHPHub社区的App，完整的源码
+
+* [Watch](https://github.com/tuesda/Watch) Dribbble第三方客户端
+
+* [WIREFRAME](https://github.com/BeeFramework/BeeFancy) BeeFancy仿Fancy官方APP的WIREFRAME，基于BeeFramework
+
+* [Doppio ](https://github.com/chroman/Doppio)寻找最近的星巴克 
+
+* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) Objective-C写的XMPP聊天应用
+
+* [NotificationChat](https://github.com/relatedcode/EncryptedChat) Objective-C写的完整的聊天应用
+
+* [ iOS-2048](https://github.com/austinzheng/iOS-2048) 用Objective-C实现的2048游戏
+
+* [Sol](https://github.com/comyarzaheri/Sol) 漂亮的扁平风格的天气App
+
+* [viewfinder](https://github.com/viewfinderco/viewfinder) 移动支付公司 Square 将去年收购的照片应用 Viewfinder 开源了，包含服务端、iOS 和 Android 应用代码
+
+* [breadwallet](https://github.com/voisine/breadwallet) breadwallet iOS bitcoin wallet
+
+* [WWDC-2014](https://github.com/indragiek/WWDC-2014) WWDC客户端
+
+* [GreatReader](https://github.com/semweb/GreatReader)GreatReader PDF阅读客户端
+
+* [Tropos](https://github.com/thoughtbot/Tropos) 天气客户端
+
+* [ Brushes](https://github.com/sprang/Brushes) 绘图应用. Painting app for the iPhone and iPad.
+
+* [ Inkpad](https://github.com/sprang/Inkpad) 绘图应用. Inkpad is a vector illustration app designed from scratch for the iPad.
+
+* [wh-app-ios](https://github.com/WhiteHouse/wh-app-ios) 美国白宫（WhiteHouse）的官方app.
+
+* [ cheddar-ios](https://github.com/nothingmagical/cheddar-ios) 一款日程管理软件.
+
+* [newsyc](https://github.com/Xuzz/newsyc) Hacker News的iPhone客户端
+
+* [WordPress for iOS](https://github.com/wordpress-mobile/WordPress-iOS) WordPress iOS官方客户端. 强推.
+
+* [WikiHow](https://github.com/tderouin/wikiHow-iPhone-Application) Wikihow–WikiHow的官方app.
+
+* [Dollar Bets](https://github.com/Rich86man/Dollar-Bets) 记录你和朋友打赌的内容.
+
+* [ Dozuki](https://github.com/iFixit/iFixit-iOS) iFixit网站的互动修理手册
+
+* [Last.fm](https://github.com/lastfm/lastfm-iphone) Last.fm 的客户端，国外很火的私人电台.
+
+* [ioctocat](https://github.com/dennisreimann/ioctocat) GitHub第三方客户端.
