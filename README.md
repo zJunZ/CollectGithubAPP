@@ -12,7 +12,8 @@
 
 * [meituan](https://github.com/lookingstars/meituan) – 美团5.7iOS版（高仿），功能包括，团购首页，高德地图搜索附近美食并显示在地图上，上门服务，商家，友盟分享。
 
-* [zhanqiTV](https://github.com/yuyangdexue/zhanqiTV) – 战旗TV
+* [zhanqiTV](https://github.com/yuyangdexue/zhanqiTV) – 战旗TV,模仿战旗tv
+上拉刷新 下啦加载 以及游戏列表的详情播放
 
 * [nuomi](https://github.com/lookingstars/meituan) – 高仿百度糯米iOS版，版本号5.13.0
 
